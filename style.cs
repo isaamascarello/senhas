@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 :root {
-    --branco: white;
+    --azul: blue;
     --cor-de-fundo:rgb(107, 178, 255);
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
@@ -15,7 +15,7 @@
 }
 
 body {
-    color: var(--branco);
+    color: var(--azul);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
