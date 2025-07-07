@@ -2,7 +2,7 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo:rgb(107, 178, 255);
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
     --borda: #0075FF;
